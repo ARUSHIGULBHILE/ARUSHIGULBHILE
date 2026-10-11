@@ -4,11 +4,15 @@
 
 <br/>
 
+<img src="assets/terminal-code-animation.gif" width="100%" alt="Animated AG data terminal showing scrolling Python and SQL code"/>
+
+<br/>
+
 <a href="https://github.com/ARUSHIGULBHILE">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-101827?style=for-the-badge&logo=github&logoColor=55E6CF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-0B1220?style=for-the-badge&logo=github&logoColor=55E6CF" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/arushi-gulbhile/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-101827?style=for-the-badge&logo=linkedin&logoColor=55E6CF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0B1220?style=for-the-badge&logo=linkedin&logoColor=55E6CF" alt="LinkedIn"/>
 </a>
 
 ### `AG // DATA TERMINAL`
@@ -21,137 +25,173 @@
 
 ---
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
 ## `01` / SYSTEM PROFILE
 
 ```text
 $ whoami
 Arushi Gulbhile
 
-$ focus --current
-Data Analytics | Business Intelligence | Open Source
+$ role --target
+Aspiring Data Analyst
 
-$ toolkit
-Python · SQL · Pandas · NumPy · Power BI · Excel
+$ focus --areas
+Business Intelligence
+Exploratory Data Analysis
+Data Visualization
+Open Source
 
 $ mission
-Explore data. Find patterns. Communicate useful insights.
+Explore data.
+Find patterns.
+Communicate useful insights.
 ```
 
-I'm a Computer Engineering student building practical skills in data
-analytics and business intelligence. I enjoy working through the
-analytics process: preparing data, asking clear questions, exploring
-patterns, and communicating findings.
-
-- **Analytics:** data cleaning, exploratory analysis, reporting
-- **Programming:** Python and SQL
-- **Visualization:** Power BI, Excel, Matplotlib
-- **Collaboration:** Git, GitHub, open-source workflows
-
----
-
-## `02` / FEATURED ANALYTICS
-
-> Replace the repository placeholders below with the real links. Keep project descriptions aligned with the work actually implemented.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Retail Analytics & BI
-
-**Business question:** What can retail order data tell us about performance and customer behavior?
-
-- Data preparation and quality checks
-- SQL analysis and analytical modeling
-- Power BI dashboard development
-
-`Python` `SQL` `PostgreSQL` `Power BI`
-
-**[Open repository](REPLACE_WITH_RETAIL_ANALYTICS_REPOSITORY_URL)**
-
 </td>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### Retail Consumer Behavior
+## `02` / QUICK SIGNALS
 
-**Business question:** What patterns can we identify in customer purchasing behavior?
+- 🎓 Computer Engineering student
+- 📊 Data Analytics & BI focus
+- 🐍 Python and SQL
+- 📈 Power BI and Excel
+- 🌍 Open-source contributor
 
-- Exploratory data analysis
-- Customer and purchasing-pattern analysis
-- Visual reporting and interpretation
-
-`Python` `Pandas` `SQL` `Power BI`
-
-**[Open repository](REPLACE_WITH_CONSUMER_BEHAVIOR_REPOSITORY_URL)**
+**Currently building:** practical analytics projects and a stronger portfolio.
 
 </td>
 </tr>
 </table>
 
-### Student Score Management System
-
-A Python-based student feedback management system developed during
-Rubicon Training. Its described functionality includes adding, viewing,
-searching, and analyzing feedback records.
-
-**[Explore repository](https://github.com/ARUSHIGULBHILE/Student-Score-Management-System)**
-
 ---
 
-## `03` / OPEN SOURCE LOG
-
-I contribute to public repositories and learn by working with existing
-codebases, pull requests, and collaborative development workflows.
-
-**Selected merged pull requests**
-
-Add 2–3 specific merged PRs here. Link each entry directly to the PR and
-describe the exact change you made.
-
-- **[Repository / PR title](REPLACE_WITH_MERGED_PR_URL)** — Briefly describe your change.
-- **[Repository / PR title](REPLACE_WITH_MERGED_PR_URL)** — Briefly describe your change.
-- **[Repository / PR title](REPLACE_WITH_MERGED_PR_URL)** — Briefly describe your change.
-
----
-
-## `04` / TOOLKIT
+## `03` / ANALYTICS WORKBENCH
 
 <div align="center">
 
-| ANALYZE | QUERY | VISUALIZE | WORKFLOW |
-|:---:|:---:|:---:|:---:|
-| Python | SQL | Power BI | Git |
-| Pandas | PostgreSQL | Excel | GitHub |
-| NumPy | MySQL | Matplotlib | Jupyter Notebook |
+| MODULE | TOOLSET | PURPOSE |
+|:--|:--|:--|
+| `01 / ANALYZE` | Python · Pandas · NumPy | Clean, explore, and understand datasets |
+| `02 / QUERY` | SQL · PostgreSQL · MySQL | Retrieve, transform, and summarize data |
+| `03 / VISUALIZE` | Power BI · Excel · Matplotlib | Communicate trends and findings |
+| `04 / BUILD` | Git · GitHub · Jupyter | Document work and collaborate |
 
 </div>
 
 ---
 
-## `05` / GITHUB SIGNALS
+## `04` / FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Retail Analytics & BI
+
+**The question:** What can retail order data tell us about business performance?
+
+A project direction focused on turning retail data into structured analysis and business reporting.
+
+**Planned / in-progress workflow**
+- Data cleaning and validation
+- SQL-based business questions
+- Analytical modeling
+- Power BI dashboard and interpretation
+
+`Python` `SQL` `PostgreSQL` `Power BI`
+
+**Repository:** `ADD YOUR REAL REPOSITORY LINK`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Retail Consumer Behavior
+
+**The question:** What patterns can we identify in customer purchasing behavior?
+
+An analytics project focused on exploring customer patterns and communicating findings through visual reporting.
+
+**Areas of analysis**
+- Data preparation and exploratory analysis
+- Customer and purchasing patterns
+- Visual summaries and interpretation
+- Business recommendations from actual results
+
+`Python` `Pandas` `SQL` `Power BI`
+
+**Repository:** `ADD YOUR REAL REPOSITORY LINK`
+
+</td>
+</tr>
+</table>
+
+### ◈ Student Score Management System
+
+A Python-based student feedback management system developed during Rubicon Training. The repository description lists adding, viewing, searching, and analyzing feedback records.
+
+**[Explore repository →](https://github.com/ARUSHIGULBHILE/Student-Score-Management-System)**
+
+---
+
+## `05` / OPEN SOURCE TRANSMISSION LOG
+
+I contribute to public repositories and learn by working with existing codebases, pull requests, and collaborative workflows.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="90%" alt="GitHub statistics"/>
+| CONTRIBUTION | WHAT TO SHOW |
+|:--|:--|
+| **Merged PR #01** | Link to the actual merged PR + a one-line summary of your change |
+| **Merged PR #02** | Link to the actual merged PR + a one-line summary of your change |
+| **Merged PR #03** | Link to the actual merged PR + a one-line summary of your change |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHIGULBHILE&layout=compact&hide_border=true&theme=tokyonight" width="90%" alt="Most used languages"/>
+</div>
+
+> Replace this table with your real merged PR links and exact contributions before publishing. Specific evidence is stronger than listing project names alone.
+
+---
+
+## `06` / CODE & COMMUNITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHIGULBHILE&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARUSHIGULBHILE&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub contribution activity graph"/>
 
 </div>
 
 ---
 
-## `06` / NEXT ITERATION
+## `07` / NEXT ITERATION
 
-- Build and document end-to-end analytics projects
-- Strengthen SQL, Python, and data storytelling
-- Create clear, business-focused Power BI dashboards
-- Keep contributing to meaningful open-source projects
+```text
+[01]  Strengthen Python and SQL for analytics
+[02]  Build end-to-end data analysis projects
+[03]  Develop business-focused Power BI dashboards
+[04]  Improve data storytelling and documentation
+[05]  Keep contributing to meaningful open source
+```
+
+---
 
 <div align="center">
 
-**Curious by nature. Analytical by practice. Always learning.**
+### `CONNECTION ESTABLISHED`
 
-[GitHub](https://github.com/ARUSHIGULBHILE) ·
-[LinkedIn](https://www.linkedin.com/in/arushi-gulbhile/)
+<a href="https://github.com/ARUSHIGULBHILE">GitHub</a>
+&nbsp; // &nbsp;
+<a href="https://www.linkedin.com/in/arushi-gulbhile/">LinkedIn</a>
+
+<br/>
+
+<sub>Curious by nature. Analytical by practice. Always learning.</sub>
 
 </div>
