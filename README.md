@@ -1,195 +1,264 @@
- <!-- ===================================================== -->
-<!-- 1. EXISTING PROFILE BANNER -->
-<!-- Keep your existing banner file at assets/profile-banner.png -->
-<!-- ===================================================== -->
+<!-- ====================================================== -->
+<!--  AG | GITHUB PROFILE README                             -->
+<!--  Put this file + the /assets folder in the repo:        -->
+<!--  github.com/ARUSHIGULBHILE/ARUSHIGULBHILE               -->
+<!-- ====================================================== -->
 
 <p align="center">
-  <img src="assets/profile-banner.png" alt="AG's GitHub Profile Banner" width="100%" />
+  <img src="assets/profile-banner.png" width="100%" alt="Arushi Gulbhile | Data Analytics, Python, SQL, Power BI" />
 </p>
 
-<!-- ===================================================== -->
-<!-- 2. ANIMATED CODE PORTRAIT -->
-<!-- Add the actual GIF at assets/portrait-preview.gif -->
-<!-- ===================================================== -->
+<div align="center">
+
+<a href="https://github.com/ARUSHIGULBHILE">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=4BE6CD&center=true&vCenter=true&width=900&lines=Hey+Visitor+%F0%9F%91%8B+I'm+Arushi+Gulbhile;Computer+Engineering+Student+%7C+Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Turning+data+into+insight+%E2%80%94+one+query+at+a+time" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%2F%20BI-4BE6CD?style=for-the-badge&labelColor=06101c" alt="Focus" />
+<img src="https://img.shields.io/badge/Learning-Python%20%7C%20SQL%20%7C%20Power%20BI-976EFF?style=for-the-badge&labelColor=06101c" alt="Learning" />
+<img src="https://img.shields.io/badge/GSSoC-2026-6BF599?style=for-the-badge&labelColor=06101c" alt="GSSoC 2026" />
+
+<br/><br/>
+
+<img src="assets/terminal-portrait.gif" width="640" alt="Arushi's portrait rendered with programming characters inside an animated terminal" />
+
+<br/>
+
+<samp>01000001 01000111 &nbsp;|&nbsp; PYTHON &nbsp;|&nbsp; SQL &nbsp;|&nbsp; DATA ANALYTICS</samp>
+
+<br/><br/>
+
+<a href="https://github.com/ARUSHIGULBHILE"><img src="https://img.shields.io/badge/GitHub-ARUSHIGULBHILE-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/arushi-gulbhile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=ARUSHIGULBHILE&label=PROFILE+VIEWS&color=976eff&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+---
+
+<h2 align="center">🌟 About Me</h2>
+
+<table width="100%" align="center">
+  <tr>
+    <td width="58%" valign="top">
+      <h3>👩‍💻 Professional Journey</h3>
+      <ul>
+        <li>🎓 Pursuing <strong>B.E. in Computer Engineering</strong> at <strong>Zeal College of Engineering &amp; Research, Pune</strong></li>
+        <li>📊 Focused on <strong>Python</strong>, <strong>SQL</strong>, <strong>Excel</strong>, <strong>Power BI</strong> &amp; business analytics</li>
+        <li>🐍 Exploring data cleaning, EDA &amp; visualization with <strong>Pandas</strong> and <strong>NumPy</strong></li>
+        <li>🛠️ Learning by building: dashboards, recommenders, full-stack &amp; AI-powered apps</li>
+        <li>🎯 Working towards a career in <strong>Data Analytics &amp; Business Intelligence</strong></li>
+      </ul>
+    </td>
+    <td width="42%" valign="top">
+      <h3>🌍 Open Source</h3>
+      <ul>
+        <li>🏅 <strong>GirlScript Summer of Code 2026</strong></li>
+        <li>🔀 <strong>8</strong> merged pull requests</li>
+        <li>📦 Contributions across <strong>6</strong> repositories</li>
+        <li>🌐 Reported global contributor rank <strong>#840</strong></li>
+        <li>🧩 Active in <a href="https://github.com/ARUSHIGULBHILE/CommitPulse">CommitPulse</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+```python
+class Arushi:
+    def __init__(self):
+        self.role = "Computer Engineering Student"
+        self.focus = "Data Analytics"
+        self.languages = ["Python", "SQL"]
+        self.tools = ["Pandas", "Power BI", "Excel", "PostgreSQL"]
+        self.interests = ["Business Intelligence", "Data Visualization",
+                          "Open Source", "Building Useful Products"]
+
+    def mindset(self):
+        return "Learn by building. Improve by experimenting."
+
+me = Arushi()
+```
+
+---
+
+<h2 align="center">🚀 My Tech Stack</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <th align="center" width="50%">📊 Data Analytics &amp; BI</th>
+    <th align="center" width="50%">🗄️ Databases &amp; Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode&perline=5" alt="Databases and tools" />
+      <br/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <th align="center" width="50%">🎨 Frontend</th>
+    <th align="center" width="50%">⚙️ Backend &amp; Languages</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&perline=6" alt="Frontend" />
+      <br/><br/>
+    </td>
+    <td align="center" valign="top">
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,flask,spring,cpp&perline=4" alt="Backend" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><em>My current learning priority is Data Analytics. I keep exploring development and AI through projects.</em></p>
+
+---
+
+<h2 align="center">📊 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛒 <a href="https://github.com/ARUSHIGULBHILE/Retail-BI-Platform">Retail BI Platform</a></h3>
+      <p>End-to-end retail business intelligence: Python data prep, PostgreSQL + SQL analysis and Power BI dashboards for orders, customers, products and revenue.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/ARUSHIGULBHILE/sales-performance-analytics">Sales Performance Analytics</a></h3>
+      <p>Sales analytics and performance visualization: trends, key metrics and insights that make results easy to read.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dashboards-976EFF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/ARUSHIGULBHILE/career-pilot">Career Pilot</a></h3>
+      <p>AI-powered career platform for resume optimization, mock interviews and job tracking.</p>
+      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
+      <img src="https://img.shields.io/badge/Full--Stack-4BE6CD?style=flat-square&labelColor=06101c" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 <a href="https://github.com/ARUSHIGULBHILE/hybrid-recommender">Hybrid Recommender</a></h3>
+      <p>Recommendation system combining content-based and collaborative filtering.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ML-976EFF?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎟️ <a href="https://github.com/ARUSHIGULBHILE/Eventra">Eventra</a></h3>
+      <p>Event management system with a React frontend and a Spring Boot backend.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 <a href="https://github.com/ARUSHIGULBHILE/CommitPulse">CommitPulse</a></h3>
+      <p>GitHub contribution visualizer built with Next.js, an open-source project I contribute to.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Open_Source-6BF599?style=flat-square&labelColor=06101c" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/ARUSHIGULBHILE">
-    <img
-      src="assets/portrait-preview.gif"
-      alt="AG's portrait rendered through programming code"
-      width="480"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <samp>01000001 01000111 · PYTHON · SQL · DATA ANALYTICS</samp>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ARUSHIGULBHILE">
-    <img src="https://img.shields.io/badge/GitHub-ARUSHIGULBHILE-181717?style=flat-square&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/arushi-gulbhile/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/ARUSHIGULBHILE?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse_all_repositories-→-4BE6CD?style=for-the-badge&labelColor=06101c" alt="All repositories" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">Hey, I'm Arushi (AG) 👋</h2>
+<h2 align="center">🗺️ Learning Roadmap</h2>
 
-<p align="center">
-  <strong>Computer Engineering Student · Aspiring Data Analyst</strong>
-</p>
+```text
+DATA ANALYTICS
+├── Python
+│   ├── Pandas & NumPy
+│   ├── Data cleaning
+│   └── Exploratory data analysis
+├── SQL
+│   ├── Filtering & aggregation
+│   ├── Joins & subqueries
+│   └── Analytical queries
+├── BI & VISUALIZATION
+│   ├── Excel
+│   ├── Power BI dashboards
+│   └── Data storytelling
+├── DATABASES
+│   └── PostgreSQL
+└── PROFESSIONAL GROWTH
+    ├── Portfolio projects
+    ├── Open-source collaboration
+    └── Interview preparation
+```
 
-<p align="center">
-  Turning raw data into meaningful insights, useful dashboards, and better decisions.
-</p>
+---
 
-## 👩‍💻 About Me
+<h2 align="center">📊 GitHub Stats</h2>
 
-- 🎓 Computer Engineering student at Zeal College of Engineering & Research, Pune.
-- 📊 Focused on **Data Analytics, Business Intelligence, and data-driven problem solving**.
-- 🐍 Learning and building with Python, SQL, Excel, and Power BI.
-- 🔎 Interested in data cleaning, exploratory data analysis, visualization, and business insights.
-- 🌱 Continuously improving through practical projects, structured learning, and open-source contributions.
-- 🚀 Building a portfolio that demonstrates what I can do with real-world data.
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&hide_border=true&title_color=4be6cd&icon_color=976eff&text_color=c9d1d9&bg_color=06101c&border_radius=20&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHIGULBHILE&layout=compact&hide_border=true&title_color=4be6cd&text_color=c9d1d9&bg_color=06101c&border_radius=20&langs_count=8" alt="Top languages" />
+</div>
 
-> I believe data becomes valuable when we turn it into insights people can actually use.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ARUSHIGULBHILE&hide_border=true&border_radius=20&background=06101c&ring=4be6cd&fire=976eff&currStreakNum=4be6cd&sideNums=c9d1d9&currStreakLabel=4be6cd&sideLabels=c9d1d9&dates=8a97a1" alt="GitHub streak" />
+</div>
 
-## 🛠️ Tech Stack
-
-### Languages & Querying
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Data Analysis & Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
-### Databases & Developer Tools
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-## 📊 Featured Projects
-
-### 01. Retail Business Intelligence & Analytics Platform
-
-**Focus:** Retail analytics · SQL · Python · Power BI
-
-A retail analytics project designed to transform transactional data into structured, decision-ready business insights.
-
-- Explore retail orders, customers, products, and revenue.
-- Apply Python and Pandas for data preparation and quality checks.
-- Use SQL to query and analyze business data.
-- Develop Power BI dashboards for exploring business performance.
-
-**Planned analytical areas:** revenue trends, product performance, customer behavior, and order patterns.
-
-<!-- Replace the link below with the actual repository URL -->
-[View project repositories](https://github.com/ARUSHIGULBHILE?tab=repositories)
-
-### 02. Retail Consumer Behavior Analysis
-
-**Focus:** Customer analytics · Python · SQL · Power BI
-
-An analytics project exploring customer purchasing patterns and consumer behavior through data cleaning, analysis, and interactive visualizations.
-
-- Prepare and analyze customer-related datasets.
-- Investigate purchasing patterns and customer segments.
-- Use SQL and Python to derive analytical summaries.
-- Present findings through Power BI dashboards.
-
-[Explore my repositories](https://github.com/ARUSHIGULBHILE?tab=repositories)
-
-### 03. More Projects & Experiments
-
-I'm continuously expanding my portfolio with hands-on exercises, analytical experiments, and software projects that strengthen my programming and problem-solving skills.
-
-[Browse all repositories →](https://github.com/ARUSHIGULBHILE?tab=repositories)
-
-## 🌍 Open Source Contributions
-
-I enjoy learning from real codebases, collaborating with maintainers, and contributing to projects beyond my own repositories.
-
-**GirlScript Summer of Code (GSSoC) 2026**
-
-- 🧩 Contributor across multiple repositories.
-- 🔀 8 merged pull requests across 6 repositories.
-- 🏅 Reported global rank: #840.
-- 💻 Contributed to projects including CommitPulse.
-
-I see open source as an opportunity to learn collaborative development, understand existing code, and make practical contributions.
-
-[Explore my GitHub activity →](https://github.com/ARUSHIGULBHILE)
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHIGULBHILE&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most-used programming languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ARUSHIGULBHILE&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-## 🎯 Currently Learning
-
-- 📊 Data analysis and business intelligence.
-- 🐍 Python for data manipulation and analysis.
-- 🗄️ SQL querying and relational database concepts.
-- 📈 Power BI dashboard design and data storytelling.
-- ☁️ Cloud fundamentals relevant to analytics workflows.
-- 🌍 Open-source collaboration and practical software development.
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with fellow learners, data professionals, open-source contributors, and people working on meaningful projects.
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/ARUSHIGULBHILE">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUSHIGULBHILE&bg_color=06101c&color=4be6cd&line=976eff&point=ffffff&area=true&area_color=976eff&hide_border=true&custom_title=Arushi's%20Contribution%20Graph" alt="Contribution graph" />
   </a>
-  <a href="https://www.linkedin.com/in/arushi-gulbhile/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+</div>
+
+---
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+  I'm happy to connect with fellow learners, data professionals, open-source contributors and people building useful things with technology.
 </p>
 
 <p align="center">
-  <i>Keep learning. Keep building. Let the data tell its story.</i>
+  <a href="https://github.com/ARUSHIGULBHILE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/arushi-gulbhile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <!-- Add more when ready, e.g. email or portfolio:
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-4BE6CD?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  -->
 </p>
 
 <p align="center">
-  <sub>Thanks for visiting my corner of GitHub! 💚</sub>
+  <samp>
+    keep_learning();<br/>
+    keep_building();<br/>
+    turn_data_into_insights();
+  </samp>
 </p>
+
+<p align="center">
+  <strong>🔥 <i>"Curious mind. Analytical thinking. Code that turns questions into answers."</i></strong>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" alt="" />
