@@ -11,7 +11,7 @@
 <div align="center">
 
 <a href="https://github.com/ARUSHIGULBHILE">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=4BE6CD&center=true&vCenter=true&width=900&lines=Hey+Visitor+%F0%9F%91%8B+I'm+Arushi+Gulbhile;Computer+Engineering+Student+%7C+Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Turning+data+into+insight+%E2%80%94+one+query+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=4BE6CD&center=true&vCenter=true&width=900&lines=Hey+Visitor+%F0%9F%91%8B+I%27m+Arushi+Gulbhile;Computer+Engineering+Student+%7C+Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+PostgreSQL;Turning+data+into+insight+%E2%80%94+one+query+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<img src="assets/terminal-portrait.gif" width="640" alt="Arushi's portrait rendered with programming characters inside an animated terminal" />
+<img src="assets/terminal-code-animation-arushi-v2.gif" width="640" alt="Arushi's portrait rendered with programming characters inside an animated terminal" />
 
 <br/>
 
@@ -59,7 +59,7 @@
         <li>🔀 <strong>8</strong> merged pull requests</li>
         <li>📦 Contributions across <strong>6</strong> repositories</li>
         <li>🌐 Reported global contributor rank <strong>#840</strong></li>
-        <li>🧩 Active in <a href="https://github.com/ARUSHIGULBHILE/CommitPulse">CommitPulse</a></li>
+        <li>🧩 Active in <a href="https://github.com/ARUSHIGULBHILE/commitpulse">CommitPulse</a></li>
       </ul>
     </td>
   </tr>
@@ -173,7 +173,7 @@ me = Arushi()
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/ARUSHIGULBHILE/CommitPulse">CommitPulse</a></h3>
+      <h3>🧩 <a href="https://github.com/ARUSHIGULBHILE/commitpulse">CommitPulse</a></h3>
       <p>GitHub contribution visualizer built with Next.js, an open-source project I contribute to.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Open_Source-6BF599?style=flat-square&labelColor=06101c" />
@@ -183,7 +183,7 @@ me = Arushi()
 
 <p align="center">
   <a href="https://github.com/ARUSHIGULBHILE?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse_all_repositories-→-4BE6CD?style=for-the-badge&labelColor=06101c" alt="All repositories" />
+    <img src="https://img.shields.io/badge/Browse_all_repositories-%E2%86%92-4BE6CD?style=for-the-badge&labelColor=06101c" alt="All repositories" />
   </a>
 </p>
 
@@ -218,18 +218,12 @@ DATA ANALYTICS
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&hide_border=true&title_color=4be6cd&icon_color=976eff&text_color=c9d1d9&bg_color=06101c&border_radius=20&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ARUSHIGULBHILE&show_icons=true&hide_border=true&title_color=4be6cd&icon_color=976eff&text_color=c9d1d9&bg_color=06101c&border_radius=20" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUSHIGULBHILE&layout=compact&hide_border=true&title_color=4be6cd&text_color=c9d1d9&bg_color=06101c&border_radius=20&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ARUSHIGULBHILE&hide_border=true&border_radius=20&background=06101c&ring=4be6cd&fire=976eff&currStreakNum=4be6cd&sideNums=c9d1d9&currStreakLabel=4be6cd&sideLabels=c9d1d9&dates=8a97a1" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/ARUSHIGULBHILE">
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ARUSHIGULBHILE&bg_color=06101c&color=4be6cd&line=976eff&point=ffffff&area=true&area_color=976eff&hide_border=true&custom_title=Arushi's%20Contribution%20Graph" alt="Contribution graph" />
-  </a>
 </div>
 
 ---
