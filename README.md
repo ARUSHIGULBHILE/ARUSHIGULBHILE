@@ -112,7 +112,7 @@ me = Arushi()
   </tr>
   <tr>
     <th align="center" width="50%">🎨 Frontend</th>
-    <th align="center" width="50%">⚙️ Backend &amp; Languages</th>
+    <th align="center" width="50%">⚙️ Backend</th>
   </tr>
   <tr>
     <td align="center" valign="top">
@@ -122,7 +122,7 @@ me = Arushi()
     </td>
     <td align="center" valign="top">
       <br/>
-      <img src="https://skillicons.dev/icons?i=python,flask,spring,cpp&perline=4" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Backend" />
       <br/><br/>
     </td>
   </tr>
@@ -136,47 +136,12 @@ me = Arushi()
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/ARUSHIGULBHILE/Retail-BI-Platform">Retail BI Platform</a></h3>
-      <p>End-to-end retail business intelligence: Python data prep, PostgreSQL + SQL analysis and Power BI dashboards for orders, customers, products and revenue.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/ARUSHIGULBHILE/sales-performance-analytics">Sales Performance Analytics</a></h3>
+    <td width="100%" valign="top" align="center">
+      <h3>📈 <a href="https://github.com/ARUSHIGULBHILE/sales-performance-analytics">sales-performance-analytics</a></h3>
       <p>Sales analytics and performance visualization: trends, key metrics and insights that make results easy to read.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dashboards-976EFF?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/ARUSHIGULBHILE/career-pilot">Career Pilot</a></h3>
-      <p>AI-powered career platform for resume optimization, mock interviews and job tracking.</p>
-      <img src="https://img.shields.io/badge/AI-412991?style=flat-square" />
-      <img src="https://img.shields.io/badge/Full--Stack-4BE6CD?style=flat-square&labelColor=06101c" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 <a href="https://github.com/ARUSHIGULBHILE/hybrid-recommender">Hybrid Recommender</a></h3>
-      <p>Recommendation system combining content-based and collaborative filtering.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/ML-976EFF?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎟️ <a href="https://github.com/ARUSHIGULBHILE/Eventra">Eventra</a></h3>
-      <p>Event management system with a React frontend and a Spring Boot backend.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 <a href="https://github.com/ARUSHIGULBHILE/commitpulse">CommitPulse</a></h3>
-      <p>GitHub contribution visualizer built with Next.js, an open-source project I contribute to.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Open_Source-6BF599?style=flat-square&labelColor=06101c" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Public-4BE6CD?style=flat-square&labelColor=06101c" alt="Public" />
+      <img src="https://img.shields.io/github/last-commit/ARUSHIGULBHILE/sales-performance-analytics?style=flat-square&labelColor=06101c&color=976eff" alt="Last commit" />
     </td>
   </tr>
 </table>
